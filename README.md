@@ -6,10 +6,14 @@ Software Engineer / Android enthusiast / Team leader and IT consultant
 🔭 I’m currently working on Android, Kotlin and Java languages<br />
 🌱 I've experience with Spring, Angular, Node, Python, Docker <br />
 #### 📫 How to reach me
-* My website: https://giacoppo.me
-* My medium: https://medium.com/@giuseppegiacoppo
-* My linkedin: https://www.linkedin.com/in/giuseppegiacoppo/
-
+```json
+{
+  "website": "https://giacoppo.me"
+  "linkedin": "https://www.linkedin.com/in/giuseppegiacoppo/"
+  "dev.to": "https://dev.to/giuseppegiacoppo"
+  "medium": "https://medium.com/@giuseppegiacoppo"
+}
+```
 <!--
 **GiuseppeGiacoppo/GiuseppeGiacoppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
