@@ -1,10 +1,11 @@
-### Hi there 👋
-
-## I'm Giuseppe
+## Hi there 👋 I'm Giuseppe
 Software Engineer / Android enthusiast / Team leader and IT consultant
 
-🔭 I’m currently working on Android, Kotlin and Java languages<br />
-🌱 I've experience with Spring, Angular, Node, Python, Docker <br />
+🌍 I'm from Messina, Sicily, then I lived and worked many years in Rome and now in Milan<br /> 
+🔭 I’m mainly work on Android platform, Kotlin and Java languages<br />
+🌱 In my free time I had fun with Spring boot, Angular, NestJS, Python, Docker<br />
+👨‍🎓 I have a degree in Computer and Electronic Engineering and worked on neural networks and artificial intelligence for my thesis
+
 #### 📫 How to reach me
 ```json
 {
