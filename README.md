@@ -8,9 +8,9 @@ Software Engineer / Android enthusiast / Team leader and IT consultant
 #### 📫 How to reach me
 ```json
 {
-  "website": "https://giacoppo.me"
-  "linkedin": "https://www.linkedin.com/in/giuseppegiacoppo/"
-  "dev.to": "https://dev.to/giuseppegiacoppo"
+  "website": "https://giacoppo.me",
+  "linkedin": "https://www.linkedin.com/in/giuseppegiacoppo/",
+  "dev.to": "https://dev.to/giuseppegiacoppo",
   "medium": "https://medium.com/@giuseppegiacoppo"
 }
 ```
