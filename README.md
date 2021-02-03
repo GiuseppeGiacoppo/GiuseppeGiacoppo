@@ -4,7 +4,8 @@ Software Engineer / Android enthusiast / Team leader and IT consultant
 🌍 I'm from Messina, Sicily, then I lived and worked many years in Rome and now in Milan<br /> 
 🔭 I’m mainly work on Android platform, Kotlin and Java languages<br />
 🌱 In my free time I had fun with Spring boot, Angular, NestJS, Python, Docker<br />
-👨‍🎓 I have a degree in Computer and Electronic Engineering and worked on neural networks and artificial intelligence for my thesis
+👨‍🎓 I have a degree in Computer and Electronic Engineering and worked on neural networks and artificial intelligence for my thesis<br />
+💬 Ask me about photography! When I have spare time I like taking pictures of night skies and milky way 
 
 #### 📫 How to reach me
 ```json
